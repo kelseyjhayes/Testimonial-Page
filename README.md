@@ -1,7 +1,5 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -11,12 +9,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://github.com/kelseyjhayes/Testimonial-Page)
+- [Live Site](https://kelseyjhayes.github.io/Testimonial-Page/)
 
 ## My process
 
@@ -53,5 +46,5 @@ This was a helpful experience, as I'll be able to take those lessons forward int
 
 ### Useful resources
 
-- [Learn CSS Grid the Easy Way](https://www.youtube.com/watch?v=rg7Fvvl3taU) - Kevin Powells video tutorial gave me new insights into how to use CSS more efificiently, as well as providing some great tips about CSS grid such as grid-template-areas. 
+- [Learn CSS Grid the Easy Way](https://www.youtube.com/watch?v=rg7Fvvl3taU) - Kevin Powell's video tutorial gave me new insights into how to use CSS more efificiently, as well as providing some great tips about CSS Grid such as grid-template-areas. 
 
